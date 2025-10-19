@@ -1,15 +1,15 @@
 [![bg](https://github.com/bubner/bubner/raw/main/holobg_r.png)](https://bubner.me/)
-<div align="right">
+<div align="left">
   <h2>
+    <a href="https://bubner.me/">https://bubner.me</a>
+    •
     <a href="https://wakatime.com/@bubner">
       <img
         src="https://wakatime.com/badge/user/617e18c7-273e-4a36-be73-e7a0d8b31d1b.svg"
         alt="wakatime"
-        height="18px"
+        height="24px"
       />
     </a>
-    •
-    <a href="https://bubner.me/">https://bubner.me</a>
   </h2>
 </div>
 <div align="center">
