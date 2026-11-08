@@ -1,4 +1,3 @@
-[![bg](https://github.com/bubner/bubner/raw/main/holobg_r.png)](https://bubner.me/)
 <div align="center">
   <h2>
     🌐 <a href="https://bubner.me/">https://bubner.me</a>
