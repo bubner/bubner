@@ -1,4 +1,9 @@
 <div align="center">
+  <a href="https://wakatime.com/@bubner">
+    <img src="/days.gif">
+  </a>
+</div>
+<div align="center">
   <h2>
     🌐 <a href="https://bubner.me/">https://bubner.me</a>
     &nbsp;&nbsp;•&nbsp;&nbsp;
